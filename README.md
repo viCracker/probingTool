@@ -4,8 +4,8 @@ This tool checks for the active or live urls from a list of urls stored in a fil
 Ensure you have these files in the same directory:<br>
   1. Probe.py - this probing tool<br>
   2. urls.txt - list of urls to check the live URLs from<br><br>
-Use command <i><b>cat urls | python3 probe.py</b></i> to run the tool.<br>
+Use command <code>cat urls | python3 probe.py</code> to run the tool.<br>
 The tool outputs the 'good' URLs into a file named: filtered_urls.txt. <br>
-<i><b>cat filtered_urls.txt</b></i> to see the live URLs.<br>
+<code>cat filtered_urls.txt</code>< to see the live URLs.<br>
 <h2>Disclaimer</h2>
 Use this tool however you want. Although I am not responsible for any unethical or illegal activity carried out using this tool.
