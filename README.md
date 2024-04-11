@@ -1,5 +1,5 @@
 # Probing Tool
-This tool checks for the active or live urls from a list of urls stored in a file probably gotten by a web srapper. <a href="">Check My Webscrapper</a>. It then ouputs the 'good' URLS to a separate file. 
+This tool checks for the active or live urls from a list of urls stored in a file probably gotten by a web srapper. <a href="https://github.com/viCracker/webscrapper">Check My Webscrapper</a>. It then ouputs the 'good' URLS to a separate file. 
 <h2>Usage</h2>
 Ensure you have these files in the same directory:<br>
   1. Probe.py - this probing tool<br>
